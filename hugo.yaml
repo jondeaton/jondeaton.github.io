@@ -1,22 +1,27 @@
 baseURL: 'https://example.org/'
 languageCode: 'en-us'
-title: 'Jon Deatons webpage'
-theme: "hugo-xmin"
+title: 'Jon Deaton'
+theme: "hugo-researcher"
 
 menu:
   main:
     - name: Home
-      url: ""
+      url: "/"
       weight: 1
     - name: About
       url: "about/"
       weight: 2
-    - name: Categories
-      url: "categories/"
-      weight: 3
-    - name: Tags
-      url: "tags/"
-      weight: 4
-    - name: Subscribe
-      url: "index.xml"
+    - name: Blog
+      url: "post/"
+      weight: 2
+    - name: "Contact"
+      link: "contact"
+    # - name: Categories
+    #   url: "categories/"
+    #   weight: 3
+    # - name: Tags
+    #   url: "tags/"
+    #   weight: 4
+    # - name: Subscribe
+    #   url: "index.xml"
 
