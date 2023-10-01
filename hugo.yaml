@@ -1,21 +1,22 @@
 baseURL: 'https://example.org/'
 languageCode: 'en-us'
-title: 'Jon Deaton'
+title: 'Jonathan Deaton'
 theme: "hugo-researcher"
+# theme: "starter-hugo-academic"
 
-menu:
-  main:
-    - name: Home
-      url: "/"
-      weight: 1
-    - name: About
-      url: "about/"
-      weight: 2
-    - name: Blog
-      url: "post/"
-      weight: 2
-    - name: "Contact"
-      link: "contact"
+# menu:
+#   main:
+#     - name: Home
+#       url: "/"
+#       weight: 1
+#     - name: About
+#       url: "about/"
+#       weight: 2
+#     - name: Blog
+#       url: "post/"
+#       weight: 2
+#     - name: "Contact"
+#       link: "contact"
     # - name: Categories
     #   url: "categories/"
     #   weight: 3
@@ -24,4 +25,58 @@ menu:
     #   weight: 4
     # - name: Subscribe
     #   url: "index.xml"
+
+disableKinds:
+  - taxonomy
+  - term
+enableEmoji: true
+math: true
+googleAnalytics: ''
+params:
+  author: Jonathan Deaton
+  description: Jonathan Deaton's personal website
+  favicon: favicon.ico
+  logo: ''
+  # footer:
+  #   text: By Olivier Roques
+  #   url: 'https://github.com/ojroques/hugo-researcher'
+  style:
+    fontFamily: Inconsolata
+    # fontFamily: Lato
+    # fontFamily: Roboto,sans-serif
+    fontSize: 14pt
+    pageWidth: 750px
+    avatarSize: 90px
+    colorBlack: '#222222'
+    colorRed: '#dc3545'
+  socialIcons:
+    - icon: fab fa-twitter
+      title: Twitter
+      url: 'https://twitter.com/'
+    - icon: fas fa-envelope
+      title: E-mail
+      url: 'mailto:jonpauldeaton@gmail.com'
+    - icon: ai ai-google-scholar
+      title: Scholar
+      url: 'https://scholar.google.com/'
+permalinks:
+  /: '/:filename'
+menu:
+  main:
+    - name: About
+      url: /
+      weight: 1
+    - name: Resume
+      url: /jondeaton_cv.pdf
+      weight: 2
+    - name: Contact
+      url: /contact
+      weight: 3
+    - name: Blog
+      url: "post/"
+      weight: 2
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
