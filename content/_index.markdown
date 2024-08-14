@@ -7,10 +7,13 @@ title: Home
 <!-- />](https://github.com/yihui/hugo-xmin) -->
 
 
-### _Research Scientist at X Development_
+### _Researcher at EvolutionaryScale_
 
-I'm a scientist at [X](https://x.company) working on applied ML in computational
-biology. My research interests include probabilistic machine learning and
-applications to science. My background is computer science and bioengineering
-and I was a competitive gymnast for 15 years.
+I'm a researcher and engineer at [EvolutionaryScale](https://www.evolutionaryscale.ai/).
+My research is motivated by understanding connections between physics and math to
+applied machine learning.
+
+I was previously a research scientist
+at [Google X](https://x.company) and have degrees in computer science and bioengineering
+from Stanford. I was a competitive gymnast for 15 years.
 

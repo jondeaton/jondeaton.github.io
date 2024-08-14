@@ -41,7 +41,9 @@ params:
   #   text: By Olivier Roques
   #   url: 'https://github.com/ojroques/hugo-researcher'
   style:
-    fontFamily: Inconsolata
+    fontFamily: Georgia
+    # fontFamily: Merriweather
+    # fontFamily: Inconsolata
     # fontFamily: Lato
     # fontFamily: Roboto,sans-serif
     fontSize: 14pt
@@ -52,13 +54,13 @@ params:
   socialIcons:
     - icon: fab fa-twitter
       title: Twitter
-      url: 'https://twitter.com/'
+      url: 'https://x.com/deaton_jon'
     - icon: fas fa-envelope
       title: E-mail
       url: 'mailto:jonpauldeaton@gmail.com'
     - icon: ai ai-google-scholar
       title: Scholar
-      url: 'https://scholar.google.com/'
+      url: 'https://scholar.google.com/citations?user=yTJbPtUAAAAJ'
 permalinks:
   /: '/:filename'
 menu:
