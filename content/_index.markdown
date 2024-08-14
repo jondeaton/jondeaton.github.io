@@ -6,8 +6,9 @@ title: Home
 <!-- style="max-width:15%;min-width:40px;float:right;" alt="Github repo" -->
 <!-- />](https://github.com/yihui/hugo-xmin) -->
 
-
 ### _Researcher at EvolutionaryScale_
+
+<img src="../static/headshot.jpg" style="float:right;" alt="Picture of me" />
 
 I'm a researcher and engineer at [EvolutionaryScale](https://www.evolutionaryscale.ai/).
 My research is motivated by understanding connections between physics and math to
