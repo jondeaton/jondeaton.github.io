@@ -1,0 +1,4 @@
+/* For making sure that the top menu shows up on the right (not center) */
+ul.menu {
+  text-align: right;
+}

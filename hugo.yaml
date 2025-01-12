@@ -1,33 +1,27 @@
-baseurl: "https://jondeaton.github.io/"  # please update this to your actual URL
+baseurl: "https://jondeaton.github.io/"
 languageCode: "en-us"
 title: "Jon Deaton's personal website"
 theme: "hugo-xmin"
-googleAnalytics: ""
+googleAnalytics: "G-EMPZPZKWZC"
 disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 footnotereturnlinkcontents: "↩"
 
-# permalinks:
-#   note: "/note/:year/:month/:day/:slug/"
-#   post: "/post/:year/:month/:day/:slug/"
 
 menu:
   main:
-    - name: Home
+    - name: About
       url: ""
       weight: 1
-    - name: About
-      url: "about/"
-      weight: 2
     - name: Blog
-      url: "posts/"
+      url: "post/"
       weight: 3
-    - name: Subscribe
-      url: "index.xml"
+    - name: CV
+      url: "/jondeaton_cv.pdf"
+      weight: 4
 
 params:
   description: "Jon Deaton's personal website."
-  # footer: "&copy; [Yihui Xie](https://yihui.org) 2017 -- {Year} | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
 
 markup:
   highlight:
