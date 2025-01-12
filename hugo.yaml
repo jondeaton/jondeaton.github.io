@@ -1,15 +1,15 @@
-baseurl: "https://example.org/"  # please update this to your actual URL
+baseurl: "https://jondeaton.github.io/"  # please update this to your actual URL
 languageCode: "en-us"
-title: "A minimal Hugo website"
+title: "Jon Deaton's personal website"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 footnotereturnlinkcontents: "↩"
 
-permalinks:
-  note: "/note/:year/:month/:day/:slug/"
-  post: "/post/:year/:month/:day/:slug/"
+# permalinks:
+#   note: "/note/:year/:month/:day/:slug/"
+#   post: "/post/:year/:month/:day/:slug/"
 
 menu:
   main:
@@ -22,15 +22,12 @@ menu:
     - name: Blog
       url: "posts/"
       weight: 3
-    - name: Tags
-      url: "tags/"
-      weight: 4
     - name: Subscribe
       url: "index.xml"
 
 params:
-  description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 -- {Year} | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+  description: "Jon Deaton's personal website."
+  # footer: "&copy; [Yihui Xie](https://yihui.org) 2017 -- {Year} | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
 
 markup:
   highlight:

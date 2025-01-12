@@ -1,11 +1,11 @@
 
 ---
 title: Hadamard Conjugation
-author: Jon Deaton
+<!-- author: Jon Deaton -->
 date: '2024-07-27'
 ---
 
-# Hadamard Conjugation
+## Hadamard Conjugation
 
 On the wikipedia page for the Hadamard-Walsh Transform, you'll find a near
 incomprehensible section the transform's application in mollecular phylogenetics.
