@@ -27,8 +27,9 @@ theoretical analysis and in technical research infrastructure.
 I was previously a research scientist at [Google X](https://x.company) and have a
 background in Computer Science and Bioengineering from Stanford.
 
-I was a gymnast for 15 years, competing for Stanford Mens Gymnastics and represented the
-Unites States on the Junior National Team in international competitions.
+I was a [gymnast](https://jondeaton.github.io/gymnastics/) for 15 years, competing for
+Stanford Mens Gymnastics and represented the Unites States on the Junior National Team
+in international competitions.
 
 I live in San Francisco, California.
 
