@@ -14,18 +14,26 @@ layout: home
   style="width: 200px; float: right; margin-left: 10px; margin-bottom: 10px;" 
 />
 
-I'm a researcher at [EvolutionaryScale](https://www.evolutionaryscale.ai/) where I work
-on building large-scale foundation models for biology.
+I'm a research scientist at [Google DeepMind](https://deepmind.google/) working
+on Gemini.
 
+<!-- Previously I was a researcher at -->
+<!-- [EvolutionaryScale](https://www.evolutionaryscale.ai/) where I worked on -->
+<!-- building foundation models for biology. -->
 
 <!-- I have broad research interests in both theoretical and applied machine learning.  -->
-My current research interests include energy based models, extremely long context
-language models, and large-scale ML systems for scientific domains such as biology. I
-believe that building break-through intelligent systems requires excellence in both
-theoretical analysis and in technical research infrastructure.
+My research interests include ultra-long context language models, adaptive
+compute, and applying large-scale AI systems to scientific domains such as
+biology. I believe break-through intelligent systems require excellence in both
+research and technical infrastructure.
 
-I was previously a research scientist at [Google X](https://x.company) and have a
-background in Computer Science and Bioengineering from Stanford.
+Previously I was a researcher at
+[EvolutionaryScale](https://www.evolutionaryscale.ai/) where I worked on
+building foundation models for biology, and I have a background in Computer
+Science and Bioengineering from Stanford.
+
+<!-- I was previously a research scientist at [Google X](https://x.company) and have a -->
+<!-- background in Computer Science and Bioengineering from Stanford. -->
 
 I was a [gymnast](https://jondeaton.github.io/gymnastics/) for 15 years, competing for
 Stanford Mens Gymnastics and represented the Unites States on the Junior National Team
