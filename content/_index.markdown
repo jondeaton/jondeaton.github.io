@@ -6,7 +6,8 @@ layout: home
 <!-- Ensures that our custom CSS loads after theirs. -->
 <head> <link rel="stylesheet" href="/css/custom.css" /> </head>
 
-### _Researcher at EvolutionaryScale_
+<!-- ### _Researcher at EvolutionaryScale_ -->
+### Jon Deaton
 
 <img 
   src="/images/headshot2.jpg" 
@@ -23,23 +24,23 @@ on Gemini.
 
 <!-- I have broad research interests in both theoretical and applied machine learning.  -->
 My research interests include ultra-long context language models, adaptive
-compute, and applying large-scale AI systems to scientific domains such as
-biology. I believe break-through intelligent systems require excellence in both
-research and technical infrastructure.
+inference compute, and applying large-scale AI systems to scientific domains
+such as biology. I believe break-through intelligent systems require excellence
+in both research and technical infrastructure.
 
-Previously I was a researcher at
-[EvolutionaryScale](https://www.evolutionaryscale.ai/) where I worked on
-building foundation models for biology, and I have a background in Computer
-Science and Bioengineering from Stanford.
+Previously, as a researcher at
+[EvolutionaryScale](https://www.evolutionaryscale.ai/) I worked on building
+foundation models for biology. I have a background in Computer Science and
+Bioengineering from Stanford.
 
 <!-- I was previously a research scientist at [Google X](https://x.company) and have a -->
 <!-- background in Computer Science and Bioengineering from Stanford. -->
 
-I was a [gymnast](https://jondeaton.github.io/gymnastics/) for 15 years, competing for
-Stanford Mens Gymnastics and represented the Unites States on the Junior National Team
-in international competitions.
+I was a [gymnast](https://jondeaton.github.io/gymnastics/) for 15 years,
+competing for Stanford Mens Gymnastics and represented the Unites States on the
+Junior National Team in international competitions.
 
-I live in San Francisco, California.
+I live in San Mateo, California.
 
 <footer>
   <p>
