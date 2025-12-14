@@ -1,5 +1,8 @@
 
-to edit the main homepage: `content/_index.markdown`
+notable files to edit:
+    
+- landing page:  `content/_index.markdown`
+- ...
 
 
 setup:

@@ -29,9 +29,9 @@ such as biology. I believe break-through intelligent systems require excellence
 in both research and technical infrastructure.
 
 Previously, as a researcher at
-[EvolutionaryScale](https://www.evolutionaryscale.ai/) I worked on building
-foundation models for biology. I have a background in Computer Science and
-Bioengineering from Stanford.
+[EvolutionaryScale](https://www.evolutionaryscale.ai/) and [Google
+X](https://x.company) I worked on building foundation models for biology. I have
+a background in Computer Science and Bioengineering from Stanford.
 
 <!-- I was previously a research scientist at [Google X](https://x.company) and have a -->
 <!-- background in Computer Science and Bioengineering from Stanford. -->
