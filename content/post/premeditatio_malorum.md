@@ -1,15 +1,18 @@
----
-title: "Stoic Negative Visualization and Anxiety"
-<!-- author: Jon Deaton -->
-date: '2026-01-13'
----
+<!-- --- -->
+<!-- title: "Stoic Negative Visualization and Anxiety" -->
+<!-- <!-1- author: Jon Deaton -1-> -->
+<!-- <!-1- date: '2026-01-13' -1-> -->
+<!-- --- -->
 
-Stoic wisdom advocates for premeditatio malorum — the continuous visualization of
-worst-case scenarios. This negative visualization is said to inoculate one’s wellbeing
-against inevitable misfortune and strengthen gratitude for the everyday. The
+# Stoic Negative Visualization and Anxiety
+2026/01/13
+
+Stoic wisdom advocates practice of *premeditatio malorum* — the continuous visualization
+of worst-case scenarios. This negative visualization is said to inoculate one’s
+wellbeing against inevitable misfortune and strengthen gratitude for the everyday. The
 recommendation rests on the same intuition that derives the famous equality:
 
-$$Happiness = Reality - Expectations$$
+**Happiness = Reality - Expectations**
 
 whiel quantifies the elusive emotion with the dryness of an accountant. The goal of
 negative visualization is not merely to recalibrate one’s internal assessment of what to
