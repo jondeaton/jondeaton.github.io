@@ -38,11 +38,11 @@ enough! Think of things even worse and less likely!".
 
 ### The Category Error
 The second difference lies in categorization. While the stoic places their visualization
-into the bucket of "expectations" the anxious misidentifies the scenarios as "reality."
-The anxious mind says to itself, "My reality is so precarious that these unpleasant
-outcomes are effectively happening now." So while the stoic's double-negative becomes a
-positive in the happiness equation, the anxious's misplacement calamitously decrements
-the total sum.
+into the bucket of "expectations" the anxious misidentifies their simulation for
+"reality." The anxious mind says to itself, "My reality is so precarious that these
+unpleasant outcomes are effectively happening now." So while the stoic's double-negative
+becomes a positive in the happiness equation, the anxious's misplacement calamitously
+decrements the total sum.
 
 ### Resolution
 While both perspecitves hold truth, a philosopher like Nietzsche would ridicule the
