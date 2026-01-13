@@ -51,9 +51,10 @@ from the bite of reality. The anxious man trembles before the blow falls; the st
 hardens his skin so he does not feel it. The stoic is simply the anxious man who has
 learned to play a trick on his own nervous system.
 
-The H = R - E equation embodies a poverty of the spirit where your only path to joy is
-to bankrupt your hope. "Do not expect too much, and you won't be sad" is herd morality.
-The stoic tries to master reality by killing his own vulnerability, the Nietzschean
-master accepts his vulnerability because it is the source of his power. The great man
-suffers deeply, but he loves his suffering because it is his life.
+The H=R-E equation embodies a poverty of the spirit where your only path to joy is to
+bankrupt your hope. "Do not expect too much, and you won't be sad" is herd morality. The
+stoic tries to master reality by killing his own vulnerability, the Nietzschean master
+accepts his vulnerability because it is the source of his power. The great man suffers
+deeply, but he loves his suffering because it is his life. In so doing, the Nietzschean
+loves his fate (amor fati) more even than the stoic.
 
